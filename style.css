@@ -552,7 +552,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .search-btn:hover { color: var(--salmon-pink); }
-
+.c {font-size = 18px}
 .mobile-bottom-navigation {
   background: var(--white);
   position: fixed;
